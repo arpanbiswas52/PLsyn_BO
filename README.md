@@ -1,6 +1,6 @@
 # PLsysn_BO
 
-This is an experimental code (not fully developed yet) for BO with automted experiments
+This is an experimental code (not fully developed yet) for BO with automted experiments: https://github.com/arpanbiswas52/PLsyn_BO/blob/main/AE_PLDsysn.ipynb
 
 - In this example, we have an experimental set up of $WSE_2$ monolayer flims grown by PLD. 
 
